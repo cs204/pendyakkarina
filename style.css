@@ -1,0 +1,31 @@
+body {
+    background-color: #d58a94;
+    text-align: justify;
+    text-indent: 15;
+    font-family: "Helvetica";
+    }
+    #flex {
+    display: flex;
+    flex-direction: row;
+    }
+    nav {
+    background-color: #e3dfd5;
+    }
+    main {
+    background-color: #dcdcdc;
+    }
+    header {
+    color:;
+    }
+    a:hover {
+    color: #697345;
+    }
+
+    a {
+    color: #232C16;
+    }
+    p {
+    text-indent: 25px;
+    }
+    Файл не выбран
+    Ещё
